@@ -1083,6 +1083,17 @@ MorphToken
   between Dash, Bitcoin, Bitcoin Cash, Ethereum, Litecoin and Monero. It
   is even possible to convert into more than one cryptocurrency in a
   single exchange.
+  
+Switchain
+  .. image:: exchanges/switchain.png
+     :width: 200px
+     :align: right
+     :target: https://www.switchain.com
+     
+  https://www.switchain.com
+  
+  Switchain allows you to compare rates across exchanges to make sure you get the best rate. 
+   
 
 
 .. _over-the-counter:
